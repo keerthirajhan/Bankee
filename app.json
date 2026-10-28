@@ -1,6 +1,6 @@
-{
+﻿{
   "expo": {
-    "name": "MAD_Sem_Exam",
+    "name": "Bankee",
     "slug": "MAD_Sem_Exam",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,3 +22,5 @@
     }
   }
 }
+
+
